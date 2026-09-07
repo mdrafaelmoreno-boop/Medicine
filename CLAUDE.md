@@ -125,3 +125,7 @@ Evidence and Citations rules above. Prioritize:
 
 End with an explicit line naming which citations to verify before presenting, and say
 whether they came from memory or from a live literature search.
+
+**Search only on request.** Ground citations in recall and flag the uncertain ones for
+verification, as above. Do not run a literature search before writing a note, and do not
+ask whether to — the fellow will request verification on a specific claim when wanted.
