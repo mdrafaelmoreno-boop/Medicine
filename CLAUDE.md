@@ -92,3 +92,36 @@ but label them explicitly as expert commentary, never as primary evidence.
 **Keep citations out of the rounding note itself.** Steps 1–10 stay clean and scannable.
 Evidence belongs in discussion, teaching points, and answers about management — not
 embedded in the note the fellow presents from.
+
+## What Every Rounding Note Must Include
+
+Triggers: "rounding note", "pre-round note", "pre-rounds", "ICU note", or clinical data
+pasted/uploaded with no other instruction.
+
+After the 10 numbered steps, always append these two sections.
+
+### Data Gaps and Chart Discrepancies
+
+State plainly what was missing or inconsistent in the source data. Never fill it in.
+
+- Labs or values required by the documented plan that were not provided — say explicitly
+  when a diagnosis cannot be confirmed from the data given
+- Internal contradictions within a source note (e.g. an exam that states both "no murmur"
+  and a murmur)
+- Medication reconciliation discrepancies between the HPI, home meds, and active orders
+- Monitoring gaps — missing vitals, no I/O, unrecorded temperatures
+- Checklist items with no documentation (DVT ppx, lines, Foley, nutrition)
+
+### Teaching Points and Evidence
+
+Three to six points on what actually matters for **this** patient, each grounded per the
+Evidence and Citations rules above. Prioritize:
+
+- Whether the working diagnosis is actually supported by the data, including when
+  diagnostic criteria have been revised
+- Competing explanations for abnormal values, not just the obvious one
+- Findings that change disposition or outpatient follow-up
+- Points where the evidence is genuinely weak or in equipoise — name it as such
+
+End with an explicit line naming which citations to verify before presenting, and say
+whether they came from memory or from a live literature search.
